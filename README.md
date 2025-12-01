@@ -7,7 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Z-Image-jupyter/blob/main/Z_Image_Turbo_jupyter.ipynb) | Z_Image_Turbo_jupyter (Free, 8bit)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Z-Image-jupyter/blob/main/Z_Image_Turbo_4bit_jupyter.ipynb) | Z_Image_Turbo_4bit_jupyter (Free, 4bit Fast) (thanks to rorutop the bloon ❤️)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Z-Image-jupyter/blob/main/Z_Image_Turbo_4bit_jupyter.ipynb) | Z_Image_Turbo_4bit_jupyter (Free, 4bit Fast) (thanks to Disty ❤️)
 
 ### 🧬 Code
 https://github.com/Tongyi-MAI/Z-Image
